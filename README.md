@@ -17,6 +17,8 @@ Clone the project
 
 Instructions on how to use the project and any relevant examples.
 
+Eg: `./run_test.sh bubble_sort`
+
 ## Contributing
 
 Guidelines on how to contribute to the project.
